@@ -28,7 +28,7 @@ const TestimonialSection = () => {
 
               {/* testimonial card  */}
               <div className="testimonials__card mx-auto">
-                <p className="lh-lg">
+                <div className="lh-lg">
                   <i className="fas fa-quote-left"></i>
                   Hakxcore revolutionized our digital operations. Their expertise in cybersecurity and SSO integration aligned perfectly with our needs. Highly recommended!" - Liel Ran
                   <i className="fas fa-quote-right"></i>
@@ -39,7 +39,7 @@ const TestimonialSection = () => {
                   <i className="fas fa-star"></i>
                   <i className="fas fa-star"></i>
                 </div>
-                </p>
+                </div>
               </div>
 
               {/* client picture  */}
@@ -59,7 +59,7 @@ const TestimonialSection = () => {
 
               {/* testimonial card  */}
               <div className="testimonials__card mx-auto">
-                <p className="lh-lg">
+                <div className="lh-lg">
                   <i className="fas fa-quote-left"></i>
                   Great experience working with hakxcore, keep the same work going...!
                   <i className="fas fa-quote-right"></i>
@@ -70,7 +70,7 @@ const TestimonialSection = () => {
                   <i className="fas fa-star"></i>
                   <i className="fas fa-star"></i>
                 </div>
-                </p>
+                </div>
               </div>
 
               {/* client picture  */}
@@ -92,7 +92,7 @@ const TestimonialSection = () => {
               {/* testimonial card  */}
 
               <div className="testimonials__card mx-auto">
-                <p className="lh-lg">
+                <div className="lh-lg">
                   <i className="fas fa-quote-left"></i>
                   At hakxcore people are very hard working, and super committed to the job and he also wants to deliver a good quality job. They made extra efforts, 
                   always listening to my requirements and feedback, and trying to improve. They are cybersecurity expert, I will work with them for a long time.
@@ -104,7 +104,7 @@ const TestimonialSection = () => {
                   <i className="fas fa-star"></i>
                   <i className="fas fa-star"></i>
                 </div>
-                </p>
+                </div>
               </div>
 
               {/* client picture  */}
@@ -128,7 +128,7 @@ const TestimonialSection = () => {
               {/* testimonial card  */}
 
               <div className="testimonials__card mx-auto">
-                <p className="lh-lg">
+                <div className="lh-lg">
                   <i className="fas fa-quote-left"></i>
                   Really good experienced Peoples at hakxcore, Liked working with him..
                   <i className="fas fa-quote-right"></i>
@@ -139,7 +139,7 @@ const TestimonialSection = () => {
                   <i className="fas fa-star"></i>
                   <i className="fas fa-star"></i>
                 </div>
-                </p>
+                </div>
               </div>
 
               {/* client picture  */}
