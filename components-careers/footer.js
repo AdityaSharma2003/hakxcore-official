@@ -120,7 +120,7 @@ const FooterSection = () => {
           <h5 className="text-capitalize fw-bold">Contact</h5>
           <hr className="bg-white d-inline-block mb-4" />
           <ul className="list-inline company-list">
-            <li><a href="mailto: hakxcore@gmail.com">Send Email</a></li>
+            <li><a href="mailto: tech@hakxcore.com">Send Email</a></li>
             <li><a href="https://wa.me/+916006511429" target="_blank">Whatsapp</a></li>
             <li><a href="https://t.me/hakxcore_bot" target="_blank">Telegram</a></li>
             <li><a href="https://instagram.com/hakxcore" target="_blank">Instagram</a></li>
